@@ -1,0 +1,55 @@
+{
+    "terminal":"X2001023",
+    "valid":true,
+    "nombre":"MIGUEL",
+    "apell1":"APEUNO",
+    "apell2":"APEDOS",
+    "idUsuario":"TRALARA",
+    "email":"aaaaa@bbb.com",
+    "telefono":"676767676",
+    "tipoUsuario":"P",
+    "numDoc":"32767495Q",
+    "codTipoDoc":"0021",
+    "tarjetas":[
+        {
+            "alias":"AMEX1",
+            "tarjeta":"454881******004",
+            "tipo":"02"
+        },
+        {
+            "alias":"Puntos 1",
+            "tarjeta":"93261568",
+            "tipo":"11"
+        },
+        {
+            "alias":"+Renfe_des",
+            "tarjeta":"90927377",
+            "tipo":"11"
+        },
+        {
+            "alias":"Puntos 2",
+            "tarjeta":"93261527",
+            "tipo":"11"
+        },
+        {
+            "alias":"PRUEBA",
+            "tarjeta":"95442364",
+            "tipo":"11"
+        },
+        {
+            "alias":"Tarjeta de puntos 2",
+            "tarjeta":"9724370039369189",
+            "tipo":"11"
+        },
+        {
+            "alias":"Tarjeta de puntos 1",
+            "tarjeta":"9724980001303014",
+            "tipo":"11"
+        },
+        {
+            "alias":"Tempo d",
+            "tarjeta":"93261584",
+            "tipo":"11"
+        }
+    ]
+}

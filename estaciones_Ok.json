@@ -1,0 +1,3537 @@
+{
+  "estaciones":[
+    {
+      "codigo":"10000",
+      "descripcion":"MADRID-P.P",
+      "descripcionLarga":"MADRID-P.PIO",
+      "latitud":"40.4215361",
+      "longitud":"-3.7190805",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0007",
+          "nombre":"EstaciÃ³n con plataforma",
+          "icono":"plataforma.png",
+          "descripcion":"EstaciÃ³n con p"
+        },
+        {
+          "codigo":"C0017",
+          "nombre":"L6, L10 y ramal Opera de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6, L10 y ramal"
+        },
+        {
+          "codigo":"C0018",
+          "nombre":"EstaciÃ³n de Autobuses",
+          "icono":"autobus.png",
+          "descripcion":"EstaciÃ³n de Au"
+        },
+        {
+          "codigo":"C0021",
+          "nombre":"L1 y L10",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1 y L10"
+        },
+        {
+          "codigo":"C0022",
+          "nombre":"L6, L8 y L10 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6, L8 y L10 de"
+        }
+      ]
+    },
+    {
+      "codigo":"10001",
+      "descripcion":"ARAVACA",
+      "descripcionLarga":"ARAVACA (APD-CG",
+      "latitud":"40.4484027",
+      "longitud":"-3.7855512",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0019",
+          "nombre":"L2 de Metro Ligero",
+          "icono":"metro_ligero_madrid.png",
+          "descripcion":"L2 de Metro Lig"
+        }
+      ]
+    },
+    {
+      "codigo":"10002",
+      "descripcion":"POZUELO",
+      "descripcionLarga":"POZUELO",
+      "latitud":"40.4473443",
+      "longitud":"-3.8002865",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"10005",
+      "descripcion":"LAS ROZAS",
+      "descripcionLarga":"LAS ROZAS (APD)",
+      "latitud":"40.4942255",
+      "longitud":"-3.8681086",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0007",
+          "nombre":"EstaciÃ³n con plataforma",
+          "icono":"plataforma.png",
+          "descripcion":"EstaciÃ³n con p"
+        }
+      ]
+    },
+    {
+      "codigo":"10007",
+      "descripcion":"MAJADAHOND",
+      "descripcionLarga":"MAJADAHOND",
+      "latitud":"40.4742448",
+      "longitud":"-3.8452712",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0007",
+          "nombre":"EstaciÃ³n con plataforma",
+          "icono":"plataforma.png",
+          "descripcion":"EstaciÃ³n con p"
+        }
+      ]
+    },
+    {
+      "codigo":"10010",
+      "descripcion":"EL BARRIAL",
+      "descripcionLarga":"EL BARRIAL",
+      "latitud":"40.4653336",
+      "longitud":"-3.8078526",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0007",
+          "nombre":"EstaciÃ³n con plataforma",
+          "icono":"plataforma.png",
+          "descripcion":"EstaciÃ³n con p"
+        }
+      ]
+    },
+    {
+      "codigo":"10100",
+      "descripcion":"PINAR ROZ.",
+      "descripcionLarga":"PINAR ROZAS",
+      "latitud":"40.5222566",
+      "longitud":"-3.8822585",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0007",
+          "nombre":"EstaciÃ³n con plataforma",
+          "icono":"plataforma.png",
+          "descripcion":"EstaciÃ³n con p"
+        }
+      ]
+    },
+    {
+      "codigo":"10101",
+      "descripcion":"LAS MATAS",
+      "descripcionLarga":"LAS MATAS",
+      "latitud":"40.5523275",
+      "longitud":"-3.8967651",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"10103",
+      "descripcion":"TORRELODO.",
+      "descripcionLarga":"TORRELODONES",
+      "latitud":"40.5745499",
+      "longitud":"-3.9565955",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0007",
+          "nombre":"EstaciÃ³n con plataforma",
+          "icono":"plataforma.png",
+          "descripcion":"EstaciÃ³n con p"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"10104",
+      "descripcion":"GALAPAG-NA",
+      "descripcionLarga":"GALAPAGAR-NAVAT",
+      "latitud":"40.6002664",
+      "longitud":"-3.9822646",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"10200",
+      "descripcion":"VILLALBA G",
+      "descripcionLarga":"VILLALBA GUADA.",
+      "latitud":"40.6265067",
+      "longitud":"-4.0081871",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0007",
+          "nombre":"EstaciÃ³n con plataforma",
+          "icono":"plataforma.png",
+          "descripcion":"EstaciÃ³n con p"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"10201",
+      "descripcion":"SAN YAGO",
+      "descripcionLarga":"SAN YAGO",
+      "latitud":"40.6178786",
+      "longitud":"-4.0312349"
+    },
+    {
+      "codigo":"10202",
+      "descripcion":"ZORRERAS-N",
+      "descripcionLarga":"ZORRERAS-NAVALQ",
+      "latitud":"40.6092725",
+      "longitud":"-4.0463634",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"10203",
+      "descripcion":"ESCORIAL",
+      "descripcionLarga":"EL ESCORIAL",
+      "latitud":"40.5852811",
+      "longitud":"-4.1324479",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"10204",
+      "descripcion":"ZARZALEJO",
+      "descripcionLarga":"ZARZALEJO",
+      "latitud":"40.538710 ",
+      "longitud":"-4.158180 "
+    },
+    {
+      "codigo":"10205",
+      "descripcion":"ROBLEDO CH",
+      "descripcionLarga":"ROBLEDO CHAVELA",
+      "latitud":"40.520802 ",
+      "longitud":"-4.246774 "
+    },
+    {
+      "codigo":"10206",
+      "descripcion":"S.MARIA AL",
+      "descripcionLarga":"STA.MARIA ALAME",
+      "latitud":"40.568937 ",
+      "longitud":"-4.269332 "
+    },
+    {
+      "codigo":"12001",
+      "descripcion":"NEGRALES",
+      "descripcionLarga":"LOS NEGRALES",
+      "latitud":"40.6385681",
+      "longitud":"-4.0220307"
+    },
+    {
+      "codigo":"12002",
+      "descripcion":"ALPEDRETE",
+      "descripcionLarga":"ALPEDRETE",
+      "latitud":"40.6580931",
+      "longitud":"-4.0350813",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"12004",
+      "descripcion":"COLLADO ME",
+      "descripcionLarga":"COLLADO MEDIANO",
+      "latitud":"40.6927600",
+      "longitud":"-4.0359164",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"12005",
+      "descripcion":"MOLINOS-GU",
+      "descripcionLarga":"MOLINOS-GUADARR",
+      "latitud":"40.7066368",
+      "longitud":"-4.0673999",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"12006",
+      "descripcion":"CERCEDILLA",
+      "descripcionLarga":"CERCEDILLA",
+      "latitud":"40.7375282",
+      "longitud":"-4.0664502",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        }
+      ]
+    },
+    {
+      "codigo":"12018",
+      "descripcion":"SIETE PICO",
+      "descripcionLarga":"SIETE PICOS"
+    },
+    {
+      "codigo":"12020",
+      "descripcion":"P.NAVACER.",
+      "descripcionLarga":"PUERTO NAVACERR",
+      "latitud":"40.7842464",
+      "longitud":"-4.0050168"
+    },
+    {
+      "codigo":"12023",
+      "descripcion":"LOS COTOS",
+      "descripcionLarga":"LOS COTOS (APT)",
+      "latitud":"40.8223493",
+      "longitud":"-3.9644101"
+    },
+    {
+      "codigo":"17000",
+      "descripcion":"MADRID-CH.",
+      "descripcionLarga":"MADRID-CHAMART.",
+      "latitud":"40.4720993",
+      "longitud":"-3.6824687",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0007",
+          "nombre":"EstaciÃ³n con plataforma",
+          "icono":"plataforma.png",
+          "descripcion":"EstaciÃ³n con p"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0009",
+          "nombre":"L10 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L10 de Metro"
+        },
+        {
+          "codigo":"C0010",
+          "nombre":"L3 y L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L3 y L5 de Metr"
+        },
+        {
+          "codigo":"C0020",
+          "nombre":"Trenes de AV, LD y MD",
+          "icono":"larga_media_distancia.png",
+          "descripcion":"Trenes de AV, L"
+        },
+        {
+          "codigo":"C0021",
+          "nombre":"L1 y L10",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1 y L10"
+        },
+        {
+          "codigo":"C0023",
+          "nombre":"EstaciÃ³n Sur de Autobuses",
+          "icono":"autobus.png",
+          "descripcion":"EstaciÃ³n Sur d"
+        }
+      ]
+    },
+    {
+      "codigo":"17001",
+      "descripcion":"FUENCARRAL",
+      "descripcionLarga":"FUENCARRAL (APT",
+      "latitud":"40.5015242",
+      "longitud":"-3.6824808",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"17003",
+      "descripcion":"EL GOLOSO",
+      "descripcionLarga":"EL GOLOSO (APD)",
+      "latitud":"40.5587539",
+      "longitud":"-3.7139504",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"17004",
+      "descripcion":"TRES CANTO",
+      "descripcionLarga":"TRES CANTOS (AP",
+      "latitud":"40.5985252",
+      "longitud":"-3.7155822",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0007",
+          "nombre":"EstaciÃ³n con plataforma",
+          "icono":"plataforma.png",
+          "descripcion":"EstaciÃ³n con p"
+        }
+      ]
+    },
+    {
+      "codigo":"17005",
+      "descripcion":"COLMENAR V",
+      "descripcionLarga":"COLMENAR VIEJO",
+      "latitud":"40.6451853",
+      "longitud":"-3.7765198",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0007",
+          "nombre":"EstaciÃ³n con plataforma",
+          "icono":"plataforma.png",
+          "descripcion":"EstaciÃ³n con p"
+        }
+      ]
+    },
+    {
+      "codigo":"17009",
+      "descripcion":"UNIV.C.BCO",
+      "descripcionLarga":"UNIVERSIDAD CAN",
+      "latitud":"40.5438226",
+      "longitud":"-3.7001834",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"18000",
+      "descripcion":"MADRID A.C",
+      "descripcionLarga":"MAD-ATOCHA CERC",
+      "latitud":"40.4061556",
+      "longitud":"-3.6889579",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0007",
+          "nombre":"EstaciÃ³n con plataforma",
+          "icono":"plataforma.png",
+          "descripcion":"EstaciÃ³n con p"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0009",
+          "nombre":"L10 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L10 de Metro"
+        },
+        {
+          "codigo":"C0011",
+          "nombre":"L3 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L3 de Metro"
+        },
+        {
+          "codigo":"C0012",
+          "nombre":"L1 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1 de Metro"
+        },
+        {
+          "codigo":"C0016",
+          "nombre":"L8 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L8 de Metro"
+        },
+        {
+          "codigo":"C0020",
+          "nombre":"Trenes de AV, LD y MD",
+          "icono":"larga_media_distancia.png",
+          "descripcion":"Trenes de AV, L"
+        }
+      ]
+    },
+    {
+      "codigo":"18001",
+      "descripcion":"MADRID-REC",
+      "descripcionLarga":"MADRID-RECOLET.",
+      "latitud":"40.4234123",
+      "longitud":"-3.6908535"
+    },
+    {
+      "codigo":"18002",
+      "descripcion":"MADRID-N.M",
+      "descripcionLarga":"MADRID-N.MINIST",
+      "latitud":"40.4466171",
+      "longitud":"-3.6923408",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0012",
+          "nombre":"L1 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1 de Metro"
+        },
+        {
+          "codigo":"C0022",
+          "nombre":"L6, L8 y L10 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6, L8 y L10 de"
+        },
+        {
+          "codigo":"C0024",
+          "nombre":"L1, L2 y L3 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1, L2 y L3 de"
+        }
+      ]
+    },
+    {
+      "codigo":"18003",
+      "descripcion":"M.ALVARO-P",
+      "descripcionLarga":"M.ALVARO-P",
+      "latitud":"40.3956167",
+      "longitud":"-3.6777094",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0009",
+          "nombre":"L10 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L10 de Metro"
+        },
+        {
+          "codigo":"C0013",
+          "nombre":"L9 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L9 de Metro"
+        },
+        {
+          "codigo":"C0014",
+          "nombre":"L7 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L7 de Metro"
+        },
+        {
+          "codigo":"C0023",
+          "nombre":"EstaciÃ³n Sur de Autobuses",
+          "icono":"autobus.png",
+          "descripcion":"EstaciÃ³n Sur d"
+        }
+      ]
+    },
+    {
+      "codigo":"18004",
+      "descripcion":"DELICIAS",
+      "descripcionLarga":"DELICIAS",
+      "latitud":"40.4003715",
+      "longitud":"-3.692763 ",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        }
+      ]
+    },
+    {
+      "codigo":"18005",
+      "descripcion":"PIRAMIDES",
+      "descripcionLarga":"PIRAMIDES",
+      "latitud":"40.4025917",
+      "longitud":"-3.7113344",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0010",
+          "nombre":"L3 y L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L3 y L5 de Metr"
+        },
+        {
+          "codigo":"C0015",
+          "nombre":"L1 de Metro Ligero",
+          "icono":"metro_ligero_madrid.png",
+          "descripcion":"L1 de Metro Lig"
+        }
+      ]
+    },
+    {
+      "codigo":"18101",
+      "descripcion":"MADRID-SOL",
+      "descripcionLarga":"MADRID-SOL",
+      "latitud":"40.4168778",
+      "longitud":"-3.7032107",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0011",
+          "nombre":"L3 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L3 de Metro"
+        },
+        {
+          "codigo":"C0016",
+          "nombre":"L8 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L8 de Metro"
+        },
+        {
+          "codigo":"C0024",
+          "nombre":"L1, L2 y L3 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1, L2 y L3 de"
+        }
+      ]
+    },
+    {
+      "codigo":"19001",
+      "descripcion":"U.P.COMILL",
+      "descripcionLarga":"U.P.COMILL",
+      "latitud":"40.554058 ",
+      "longitud":"-3.683335 ",
+      "servicios":[
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"19002",
+      "descripcion":"VALDELASFU",
+      "descripcionLarga":"VALDELASFU",
+      "latitud":"40.5474433",
+      "longitud":"-3.6543338",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"19003",
+      "descripcion":"ALCOB.SSEB",
+      "descripcionLarga":"ALCOB.SSEB",
+      "latitud":"40.546566 ",
+      "longitud":"-3.6351819",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"35001",
+      "descripcion":"LEGANES",
+      "descripcionLarga":"LEGANES",
+      "latitud":"40.3286349",
+      "longitud":"-3.7711552",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0012",
+          "nombre":"L1 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1 de Metro"
+        },
+        {
+          "codigo":"C0017",
+          "nombre":"L6, L10 y ramal Opera de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6, L10 y ramal"
+        }
+      ]
+    },
+    {
+      "codigo":"35002",
+      "descripcion":"FUENLABRAD",
+      "descripcionLarga":"FUENLABRADA",
+      "latitud":"40.2833747",
+      "longitud":"-3.7994538",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0012",
+          "nombre":"L1 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1 de Metro"
+        },
+        {
+          "codigo":"C0017",
+          "nombre":"L6, L10 y ramal Opera de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6, L10 y ramal"
+        }
+      ]
+    },
+    {
+      "codigo":"35009",
+      "descripcion":"ZARZAQMADA",
+      "descripcionLarga":"ZARZAQUEMADA",
+      "latitud":"40.3406009",
+      "longitud":"-3.7482111",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        }
+      ]
+    },
+    {
+      "codigo":"35010",
+      "descripcion":"LA SERNA",
+      "descripcionLarga":"LA SERNA",
+      "latitud":"40.2967500",
+      "longitud":"-3.7926450",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0007",
+          "nombre":"EstaciÃ³n con plataforma",
+          "icono":"plataforma.png",
+          "descripcion":"EstaciÃ³n con p"
+        }
+      ]
+    },
+    {
+      "codigo":"35011",
+      "descripcion":"P.POLVORAN",
+      "descripcionLarga":"P.POLVORAN",
+      "latitud":"40.3125398",
+      "longitud":"-3.7835135",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        }
+      ]
+    },
+    {
+      "codigo":"35012",
+      "descripcion":"HUMANES",
+      "descripcionLarga":"HUMANES",
+      "latitud":"40.2556903",
+      "longitud":"-3.8286016",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        }
+      ]
+    },
+    {
+      "codigo":"35600",
+      "descripcion":"ALUCHE",
+      "descripcionLarga":"MADRID-ALUCHE",
+      "latitud":"40.3856315",
+      "longitud":"-3.7607442",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0010",
+          "nombre":"L3 y L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L3 y L5 de Metr"
+        },
+        {
+          "codigo":"C0015",
+          "nombre":"L1 de Metro Ligero",
+          "icono":"metro_ligero_madrid.png",
+          "descripcion":"L1 de Metro Lig"
+        }
+      ]
+    },
+    {
+      "codigo":"35601",
+      "descripcion":"FANJUL",
+      "descripcionLarga":"FANJUL",
+      "latitud":"40.3836517",
+      "longitud":"-3.7685682"
+    },
+    {
+      "codigo":"35602",
+      "descripcion":"L.AGUILAS",
+      "descripcionLarga":"LAS AGUILAS",
+      "latitud":"40.3811836",
+      "longitud":"-3.7802739"
+    },
+    {
+      "codigo":"35603",
+      "descripcion":"C.VIENTOS",
+      "descripcionLarga":"CUATRO VIENTOS",
+      "latitud":"40.3777633",
+      "longitud":"-3.7914876",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0009",
+          "nombre":"L10 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L10 de Metro"
+        },
+        {
+          "codigo":"C0013",
+          "nombre":"L9 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L9 de Metro"
+        },
+        {
+          "codigo":"C0018",
+          "nombre":"EstaciÃ³n de Autobuses",
+          "icono":"autobus.png",
+          "descripcion":"EstaciÃ³n de Au"
+        }
+      ]
+    },
+    {
+      "codigo":"35604",
+      "descripcion":"S.J.VALDER",
+      "descripcionLarga":"SAN JOSE DE VAL",
+      "latitud":"40.3565467",
+      "longitud":"-3.8155715",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"35605",
+      "descripcion":"ALCORCON",
+      "descripcionLarga":"ALCORCON",
+      "latitud":"40.3502521",
+      "longitud":"-3.8320940",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0012",
+          "nombre":"L1 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1 de Metro"
+        },
+        {
+          "codigo":"C0017",
+          "nombre":"L6, L10 y ramal Opera de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6, L10 y ramal"
+        }
+      ]
+    },
+    {
+      "codigo":"35606",
+      "descripcion":"MOSTOLES",
+      "descripcionLarga":"MOSTOLES",
+      "latitud":"40.3284890",
+      "longitud":"-3.8638111",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0012",
+          "nombre":"L1 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1 de Metro"
+        },
+        {
+          "codigo":"C0017",
+          "nombre":"L6, L10 y ramal Opera de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6, L10 y ramal"
+        }
+      ]
+    },
+    {
+      "codigo":"35607",
+      "descripcion":"VILLA.ODON",
+      "descripcionLarga":"VILLAVICIOSA DE",
+      "latitud":"40.3309581",
+      "longitud":"-3.8824268",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"35608",
+      "descripcion":"LAGUNA",
+      "descripcionLarga":"LAGUNA",
+      "latitud":"40.3991775",
+      "longitud":"-3.7442226",
+      "servicios":[
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0013",
+          "nombre":"L9 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L9 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"35609",
+      "descripcion":"EMBAJADOR.",
+      "descripcionLarga":"EMBAJADOR.",
+      "latitud":"40.4051246",
+      "longitud":"-3.7026286",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0010",
+          "nombre":"L3 y L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L3 y L5 de Metr"
+        },
+        {
+          "codigo":"C0014",
+          "nombre":"L7 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L7 de Metro"
+        },
+        {
+          "codigo":"C0019",
+          "nombre":"L2 de Metro Ligero",
+          "icono":"metro_ligero_madrid.png",
+          "descripcion":"L2 de Metro Lig"
+        }
+      ]
+    },
+    {
+      "codigo":"35610",
+      "descripcion":"L. RETAMAS",
+      "descripcionLarga":"L. RETAMAS",
+      "latitud":"40.3420458",
+      "longitud":"-3.8424115",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        }
+      ]
+    },
+    {
+      "codigo":"35702",
+      "descripcion":"DOCE OCTUB",
+      "descripcionLarga":"DOCE OCTUB",
+      "latitud":"40.3790374",
+      "longitud":"-3.6988513"
+    },
+    {
+      "codigo":"35703",
+      "descripcion":"ORCASITAS",
+      "descripcionLarga":"ORCASITAS",
+      "latitud":"40.3666963",
+      "longitud":"-3.7046002",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"35704",
+      "descripcion":"PT.ALCOCER",
+      "descripcionLarga":"PT.ALCOCER",
+      "latitud":"40.3504002",
+      "longitud":"-3.7051062",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"37001",
+      "descripcion":"MAD-VILL.A",
+      "descripcionLarga":"MAD-VILLAVER.AL",
+      "latitud":"40.3415512",
+      "longitud":"-3.7115464",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0011",
+          "nombre":"L3 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L3 de Metro"
+        },
+        {
+          "codigo":"C0015",
+          "nombre":"L1 de Metro Ligero",
+          "icono":"metro_ligero_madrid.png",
+          "descripcion":"L1 de Metro Lig"
+        },
+        {
+          "codigo":"C0020",
+          "nombre":"Trenes de AV, LD y MD",
+          "icono":"larga_media_distancia.png",
+          "descripcion":"Trenes de AV, L"
+        }
+      ]
+    },
+    {
+      "codigo":"37002",
+      "descripcion":"GETAFE CTR",
+      "descripcionLarga":"GETAFE CENTRO",
+      "latitud":"40.3098934",
+      "longitud":"-3.7340237",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0012",
+          "nombre":"L1 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1 de Metro"
+        },
+        {
+          "codigo":"C0017",
+          "nombre":"L6, L10 y ramal Opera de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6, L10 y ramal"
+        }
+      ]
+    },
+    {
+      "codigo":"37010",
+      "descripcion":"MARGARITAS",
+      "descripcionLarga":"MARGARITAS",
+      "latitud":"40.3229367",
+      "longitud":"-3.7272747",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0007",
+          "nombre":"EstaciÃ³n con plataforma",
+          "icono":"plataforma.png",
+          "descripcion":"EstaciÃ³n con p"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"37011",
+      "descripcion":"GETAFE S-3",
+      "descripcionLarga":"GETAFE S-3",
+      "latitud":"40.2882215",
+      "longitud":"-3.7375106",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"37012",
+      "descripcion":"PARLA",
+      "descripcionLarga":"PARLA",
+      "latitud":"40.2411556",
+      "longitud":"-3.7692726",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"60100",
+      "descripcion":"MAD-VILL.B",
+      "descripcionLarga":"MAD-VILLAVER.BA",
+      "latitud":"40.3536351",
+      "longitud":"-3.6839896",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"60101",
+      "descripcion":"S.CRIS.IND",
+      "descripcionLarga":"SAN CRISTOBAL I",
+      "latitud":"40.3319352",
+      "longitud":"-3.6986743",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        }
+      ]
+    },
+    {
+      "codigo":"60102",
+      "descripcion":"GETAFE IND",
+      "descripcionLarga":"GETAFE INDUSTRI",
+      "latitud":"40.3054448",
+      "longitud":"-3.7078159",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"60103",
+      "descripcion":"PINTO",
+      "descripcionLarga":"PINTO",
+      "latitud":"40.2427782",
+      "longitud":"-3.7036626",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"60104",
+      "descripcion":"VALDEMORO",
+      "descripcionLarga":"VALDEMORO",
+      "latitud":"40.1960018",
+      "longitud":"-3.6649777",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"60105",
+      "descripcion":"CIEMPOZUEL",
+      "descripcionLarga":"CIEMPOZUELOS",
+      "latitud":"40.1590740",
+      "longitud":"-3.6101107",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"60107",
+      "descripcion":"S.CRIS.ANG",
+      "descripcionLarga":"SAN CRISTOBAL D",
+      "latitud":"40.3408068",
+      "longitud":"-3.6839943",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"60109",
+      "descripcion":"EL CASAR",
+      "descripcionLarga":"EL CASAR",
+      "latitud":"40.3186333",
+      "longitud":"-3.7100083",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0012",
+          "nombre":"L1 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1 de Metro"
+        },
+        {
+          "codigo":"C0017",
+          "nombre":"L6, L10 y ramal Opera de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6, L10 y ramal"
+        }
+      ]
+    },
+    {
+      "codigo":"60200",
+      "descripcion":"ARANJUEZ",
+      "descripcionLarga":"ARANJUEZ",
+      "latitud":"40.0348585",
+      "longitud":"-3.6182315",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"70001",
+      "descripcion":"Vallecas",
+      "descripcionLarga":"Vallecas",
+      "latitud":"40.3820447",
+      "longitud":"-3.6246888",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0011",
+          "nombre":"L3 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L3 de Metro"
+        },
+        {
+          "codigo":"C0012",
+          "nombre":"L1 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1 de Metro"
+        },
+        {
+          "codigo":"C0016",
+          "nombre":"L8 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L8 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"70002",
+      "descripcion":"AS.MAD.ENT",
+      "descripcionLarga":"AS.MAD.ENTREVIA",
+      "latitud":"40.3816176",
+      "longitud":"-3.6679819",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        }
+      ]
+    },
+    {
+      "codigo":"70003",
+      "descripcion":"EL POZO",
+      "descripcionLarga":"EL POZO",
+      "latitud":"40.3760524",
+      "longitud":"-3.6562354",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"70100",
+      "descripcion":"VICALVARO",
+      "descripcionLarga":"VICALVARO",
+      "latitud":"40.4012112",
+      "longitud":"-3.5959811",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0013",
+          "nombre":"L9 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L9 de Metro"
+        },
+        {
+          "codigo":"C0017",
+          "nombre":"L6, L10 y ramal Opera de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6, L10 y ramal"
+        },
+        {
+          "codigo":"C0021",
+          "nombre":"L1 y L10",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1 y L10"
+        }
+      ]
+    },
+    {
+      "codigo":"70101",
+      "descripcion":"S.FER.HENA",
+      "descripcionLarga":"SAN FER.HENARES",
+      "latitud":"40.4425370",
+      "longitud":"-3.5344609",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"70102",
+      "descripcion":"TORR.ARDOZ",
+      "descripcionLarga":"TORREJON DE ARD",
+      "latitud":"40.4547384",
+      "longitud":"-3.4797415",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"70103",
+      "descripcion":"ALCALA HEN",
+      "descripcionLarga":"ALCALA HENARES",
+      "latitud":"40.4889113",
+      "longitud":"-3.3662523",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"70104",
+      "descripcion":"MECO",
+      "descripcionLarga":"MECO (APD-CGD)",
+      "latitud":"40.5344356",
+      "longitud":"-3.2990455",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"70105",
+      "descripcion":"AZUQUECA",
+      "descripcionLarga":"AZUQUECA",
+      "latitud":"40.5610437",
+      "longitud":"-3.2653569",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        }
+      ]
+    },
+    {
+      "codigo":"70107",
+      "descripcion":"ALC.H.UNIV",
+      "descripcionLarga":"ALCALA HENARES-",
+      "latitud":"40.5052933",
+      "longitud":"-3.3352443",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"70108",
+      "descripcion":"COSLADA AP",
+      "descripcionLarga":"COSLADA (APD)",
+      "latitud":"40.4232210",
+      "longitud":"-3.5611137",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0014",
+          "nombre":"L7 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L7 de Metro"
+        },
+        {
+          "codigo":"C0018",
+          "nombre":"EstaciÃ³n de Autobuses",
+          "icono":"autobus.png",
+          "descripcion":"EstaciÃ³n de Au"
+        },
+        {
+          "codigo":"C0022",
+          "nombre":"L6, L8 y L10 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6, L8 y L10 de"
+        }
+      ]
+    },
+    {
+      "codigo":"70109",
+      "descripcion":"ST.EUGENIA",
+      "descripcionLarga":"STA. EUGENIA",
+      "latitud":"40.3869128",
+      "longitud":"-3.6089604",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"70111",
+      "descripcion":"LA GARENA",
+      "descripcionLarga":"LA GARENA",
+      "latitud":"40.4804888",
+      "longitud":"-3.3930758",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        }
+      ]
+    },
+    {
+      "codigo":"70112",
+      "descripcion":"SOTO HENAR",
+      "descripcionLarga":"SOTO DEL HENARE",
+      "latitud":"40.4638889",
+      "longitud":"-3.4422222",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        }
+      ]
+    },
+    {
+      "codigo":"70200",
+      "descripcion":"GUADALAJAR",
+      "descripcionLarga":"GUADALAJARA",
+      "latitud":"40.6441032",
+      "longitud":"-3.1822298",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        }
+      ]
+    },
+    {
+      "codigo":"97100",
+      "descripcion":"PITIS",
+      "descripcionLarga":"PITIS",
+      "latitud":"40.4954011",
+      "longitud":"-3.7260638",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0014",
+          "nombre":"L7 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L7 de Metro"
+        },
+        {
+          "codigo":"C0018",
+          "nombre":"EstaciÃ³n de Autobuses",
+          "icono":"autobus.png",
+          "descripcion":"EstaciÃ³n de Au"
+        },
+        {
+          "codigo":"C0022",
+          "nombre":"L6, L8 y L10 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6, L8 y L10 de"
+        }
+      ]
+    },
+    {
+      "codigo":"97201",
+      "descripcion":"MADRID-RCA",
+      "descripcionLarga":"MAD-RAM Y CAJAL",
+      "latitud":"40.4882980",
+      "longitud":"-3.6946827"
+    },
+    {
+      "codigo":"98003",
+      "descripcion":"FTE. MORA",
+      "descripcionLarga":"FTE DE LA MORA",
+      "latitud":"40.4847940",
+      "longitud":"-3.6628860",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0015",
+          "nombre":"L1 de Metro Ligero",
+          "icono":"metro_ligero_madrid.png",
+          "descripcion":"L1 de Metro Lig"
+        },
+        {
+          "codigo":"C0019",
+          "nombre":"L2 de Metro Ligero",
+          "icono":"metro_ligero_madrid.png",
+          "descripcion":"L2 de Metro Lig"
+        },
+        {
+          "codigo":"C0023",
+          "nombre":"EstaciÃ³n Sur de Autobuses",
+          "icono":"autobus.png",
+          "descripcion":"EstaciÃ³n Sur d"
+        }
+      ]
+    },
+    {
+      "codigo":"98304",
+      "descripcion":"VALDEBEBAS",
+      "descripcionLarga":"VALDEBEBAS",
+      "latitud":"40.482    ",
+      "longitud":"-3.616292 ",
+      "servicios":[
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        }
+      ]
+    },
+    {
+      "codigo":"98305",
+      "descripcion":"AEROPUE.T4",
+      "descripcionLarga":"MADRID-BARAJ.T4",
+      "latitud":"40.49174  ",
+      "longitud":"-3.593473 ",
+      "servicios":[
+        {
+          "codigo":"C0001",
+          "nombre":"Parking",
+          "icono":"parking.png",
+          "descripcion":"Parking"
+        },
+        {
+          "codigo":"C0002",
+          "nombre":"Parking de pago",
+          "icono":"parking.png",
+          "descripcion":"Parking de pago"
+        },
+        {
+          "codigo":"C0003",
+          "nombre":"L6 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L6 de Metro"
+        },
+        {
+          "codigo":"C0004",
+          "nombre":"EstaciÃ³n accesible",
+          "icono":"minusvalidos.png",
+          "descripcion":"EstaciÃ³n acces"
+        },
+        {
+          "codigo":"C0005",
+          "nombre":"L12 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L12 de Metro"
+        },
+        {
+          "codigo":"C0006",
+          "nombre":"Ascensor",
+          "icono":"ascensor.png",
+          "descripcion":"Ascensor"
+        },
+        {
+          "codigo":"C0008",
+          "nombre":"L5 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L5 de Metro"
+        },
+        {
+          "codigo":"C0016",
+          "nombre":"L8 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L8 de Metro"
+        },
+        {
+          "codigo":"C0020",
+          "nombre":"Trenes de AV, LD y MD",
+          "icono":"larga_media_distancia.png",
+          "descripcion":"Trenes de AV, L"
+        },
+        {
+          "codigo":"C0024",
+          "nombre":"L1, L2 y L3 de Metro",
+          "icono":"metro_madrid.png",
+          "descripcion":"L1, L2 y L3 de"
+        }
+      ]
+    }
+  ]
+}

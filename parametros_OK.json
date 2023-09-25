@@ -1,0 +1,24 @@
+{
+   "lstParams": [
+      {
+         "txtoProp": "NUCLEOS_ACT_ESTACION",
+         "valorProp": "10|50"
+      },
+      {
+         "txtoProp": "NUCLEOS_ACT_TREN",
+         "valorProp": "10|50"
+      },
+      {
+         "txtoProp": "NUC_ACT_TREAL",
+         "valorProp": "50"
+      },
+      {
+         "txtoProp": "NUC_ACT_RECORRIDO",
+         "valorProp": "50|10"
+      },
+      {
+         "txtoProp": "NUC_ACT_VENTA",
+         "valorProp": "50|10"
+      }
+   ]
+}
